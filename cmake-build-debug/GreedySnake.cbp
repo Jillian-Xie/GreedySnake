@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GreedySnake"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/CLionProjects/GreedySnake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GreedySnake">
+				<Option output="D:/CLionProjects/GreedySnake/cmake-build-debug/GreedySnake.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProjects/GreedySnake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 GreedySnake"/>
+					<CompileFile command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GreedySnake/fast">
+				<Option output="D:/CLionProjects/GreedySnake/cmake-build-debug/GreedySnake.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProjects/GreedySnake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 GreedySnake/fast"/>
+					<CompileFile command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/CLionProjects/GreedySnake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/CLionProjects/GreedySnake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/abcxl/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GreedySnake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/CLionProjects/GreedySnake/Food.cpp">
+			<Option target="GreedySnake"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GreedySnake/Food.h">
+			<Option target="GreedySnake"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GreedySnake/GameControler.cpp">
+			<Option target="GreedySnake"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GreedySnake/GameControler.h">
+			<Option target="GreedySnake"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GreedySnake/Graph.cpp">
+			<Option target="GreedySnake"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GreedySnake/Graph.h">
+			<Option target="GreedySnake"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GreedySnake/Snake.cpp">
+			<Option target="GreedySnake"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GreedySnake/Snake.h">
+			<Option target="GreedySnake"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GreedySnake/main.cpp">
+			<Option target="GreedySnake"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GreedySnake/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+"C:\Users\abcxl\CLion 2018.3.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\GreedySnake.dir/objects.a
+C:\Users\abcxl\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\GreedySnake.dir/objects.a @CMakeFiles\GreedySnake.dir\objects1.rsp
+C:\Users\abcxl\Dev-Cpp\MinGW64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\GreedySnake.dir/objects.a -Wl,--no-whole-archive  -o GreedySnake.exe -Wl,--out-implib,libGreedySnake.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GreedySnake.dir\linklibs.rsp

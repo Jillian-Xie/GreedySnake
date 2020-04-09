@@ -1,0 +1,3 @@
+D:/CLionProjects/GreedySnake/cmake-build-debug/CMakeFiles/GreedySnake.dir
+D:/CLionProjects/GreedySnake/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/GreedySnake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
